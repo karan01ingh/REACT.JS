@@ -2,7 +2,10 @@ import { useState } from 'react'
 
 function App() {
   return (
-    <h1>REACT WITH VITE</h1>
+    <div>
+      <h1>REACT WITH VITE</h1>
+      <h2>Counter value:5</h2>
+    </div>
   )
 }
 
